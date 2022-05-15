@@ -43,5 +43,5 @@
   <a href="https://github.com/vodwatch" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/GITHUB/vodwatch/00000?icon=github" alt="vodwatch"/> </a>
   </br></br>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-  </br>
+  </br></br></br></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotr-tomczyk&layout=compact">
