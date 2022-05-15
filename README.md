@@ -10,36 +10,36 @@
 </br>
 <h3> <img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ecbb658b08e04de8a1ef1e032abb54d2/default/dark/1.0" width="30"> Projects </h3>
 
-- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0" width="30"> TODO list made using Angular and Firebase [TODO](https://github.com/piotr-tomczyk/TODO)
+- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0" width="30"> TODO list made using Angular and Firebase </br>gh-page: [TODO](https://piotr-tomczyk.github.io/TODO)
   <a href="https://github.com/piotr-tomczyk/TODO" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/GITHUB/TODO/00000?icon=github" alt="TODO"/> </a>
 
-- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0" width="30"> Fetching data from shop API written in TDD using JavaScript and JEST [TDDApi](https://github.com/piotr-tomczyk/TDDApi)
+- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0" width="30"> Fetching data from shop API written in TDD using JavaScript and JEST </br>gh-page: [TDDApi](https://piotr-tomczyk.github.io/TDDApi)
   <a href="https://github.com/piotr-tomczyk/TDDApi" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/GITHUB/TDDApi/00000?icon=github" alt="TDDApi"/> </a>
 
-- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> Python server which takes data about your GitHub profile and repositories, and Angular application which uses that data [GitApi](https://github.com/piotr-tomczyk/GitApi)
+- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> Python server which takes data about your GitHub profile and repositories, and Angular application which uses that data </br>
   <a href="https://github.com/piotr-tomczyk/GitApi" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/GITHUB/GitApi/00000?icon=github" alt="GitApi"/> </a>
-- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> Angular application where I experiment with form validation, creating custom validators etc. [Food-Korbo](https://github.com/piotr-tomczyk/FoodKorbo)
+- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> Angular application where I experiment with form validation, creating custom validators etc. </br>gh-page: [Food-Korbo](https://piotr-tomczyk.github.io/FoodKorbo)
   <a href="https://github.com/piotr-tomczyk/Food-Korbo" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/GITHUB/Food-Korbo/00000?icon=github" alt="Food-Korbo"/> </a>
 
-- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> My first application with Angular [calculatorAngular](https://github.com/piotr-tomczyk/calculatorAngular)
+- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> My first application with Angular </br>gh-page: [calculatorAngular](https://piotr-tomczyk.github.io/calculatorAngular)
   <a href="https://github.com/piotr-tomczyk/calculatorAngular" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/GITHUB/calculatorAngular/00000?icon=github" alt="calculatorAngular"/> </a>
 
-- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> First application made, were I used webpack, this site is made entirely in JavaScript [Restaurant](https://github.com/piotr-tomczyk/Restaurant)
+- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> First application made, were I used webpack, this site is made entirely in JavaScript </br>gh-page: [Restaurant](https://piotr-tomczyk.github.io/Restaurant)
   <a href="https://github.com/piotr-tomczyk/Restaurant" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/GITHUB/Restaurant/00000?icon=github" alt="Restaurant"/> </a>
-- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> TicTacToe aplication without applied styling which I created using factories and modules. [TicTacToe](https://github.com/piotr-tomczyk/TicTacToe)
+- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> TicTacToe aplication without applied styling which I created using factories and modules. </br>gh-page: [TicTacToe](https://piotr-tomczyk.github.io/TicTacToe)
   <a href="https://github.com/piotr-tomczyk/TicTacToe" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/GITHUB/TicTacToe/00000?icon=github" alt="TicTacToe"/> </a>
-- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> First application I made using JavaScript [etch-a-sketch](https://github.com/piotr-tomczyk/etch-a-sketch)
+- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> First application I made using JavaScript </br>gh-page: [etch-a-sketch](https://piotr-tomczyk.github.io/etch-a-sketch)
   <a href="https://github.com/piotr-tomczyk/etch-a-sketch" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/GITHUB/etch-a-sketch/00000?icon=github" alt="etch-a-sketch"/> </a>
-- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> One of my first application made using JavaScript. [calculatorJS](https://github.com/piotr-tomczyk/calculatorJS)
+- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> One of my first application made using JavaScript. </br>gh-page: [calculatorJS](https://piotr-tomczyk.github.io/calculatorJS)
   <a href="https://github.com/piotr-tomczyk/calculatorJS" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/GITHUB/calculatorJS/00000?icon=github" alt="calculatorJS"/> </a>
-- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> Sign-Up page which I styled to look like a template I was given [Sign-up](https://github.com/piotr-tomczyk/Sign-up)
+- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> Sign-Up page which I styled to look like a template I was given </br>gh-page: [Sign-up](https://piotr-tomczyk.github.io/Sign-up)
   <a href="https://github.com/piotr-tomczyk/Sign-up" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/GITHUB/Sign-up/00000?icon=github" alt="Sign-up"/> </a>
-- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> Admin-Page which I styled to look like a template I was given [Admin-Panel](https://github.com/piotr-tomczyk/Admin-Panel)
+- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> Admin-Page which I styled to look like a template I was given </br>gh-page: [Admin-Panel](https://piotr-tomczyk.github.io/Admin-Panel/)
   <a href="https://github.com/piotr-tomczyk/Admin-Panel" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/GITHUB/Admin-Panel/00000?icon=github" alt="Admin-Panel"/> </a>
 
 <h3 align="left"> <img src="https://static-cdn.jtvnw.net/emoticons/v2/305882753/default/dark/1.0"> My Bachelor Thesis</h3>
 
-- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> Browser extension allowing to watch movies from VOD services collectively [vodwatch](https://github.com/vodwatch)
+- <img src="https://static-cdn.jtvnw.net/emoticons/v2/305997628/default/dark/1.0"> Browser extension allowing to watch movies from VOD services collectively </br>
   <a href="https://github.com/vodwatch" target="_blank" rel="noreferrer"> <img src="https://badgen.net/badge/GITHUB/vodwatch/00000?icon=github" alt="vodwatch"/> </a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotr-tomczyk&layout=compact">
